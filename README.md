@@ -1,22 +1,22 @@
    BREAST CANCER DATA ANALYSIS PROJECT
 
    1. Project Overview: 
-This project involves analysing breast cancer data to identify patterns and understand the characteristics associated with benign and malignant tumours.
+This project involves analysing breast cancer data to identify patterns and understand the characteristics associated with BENIGN and MALIGNANT tumours.
 
-The project demonstrates how data analytics can be used to transform raw healthcare data into meaningful insights.
+The project also demonstrates how data analytics can be used to transform raw healthcare data into meaningful insights.
 
    2. Project Objectives: 
-- Analyse breast cancer data.
+- Analyse BTEAST CANCER data.
 - Identify patterns in tumour characteristics.
 - Clean and prepare the dataset.
-- Compare benign and malignant diagnoses.
+- Compare Benign and Malignant diagnoses.
 - Develop an interactive Power BI dashboard.
 
   3. Dataset Description: 
-The dataset contains breast cancer diagnostic information, including diagnosis classifications and measurements of cell nuclei.
+The dataset contains BREAST CANCER diagnostic information, including diagnosis, classifications and measurements of cell nuclei.
 
   4. Tools Used: 
-- Excel/WPS: Data cleaning and analysis.
+- Excel/WPS Spreadsheet: Data cleaning and analysis.
 - Power BI: Data visualisation and dashboard development.
 - GitHub: Project documentation and portfolio management.
 - ChatGPT: Ai and Guide
@@ -31,7 +31,7 @@ The following activities were performed:
 - Prepared the dataset for analysis.
 
   6. Data Analysis: 
-Excel was used to perform exploratory data analysis, create PivotTables and examine patterns in the dataset.
+Excel was used to perform Exploratory Data Analysis (EDA),create PivotTables and examine patterns in the dataset.
 
 Power BI was used to create visual representations of the findings.
 
@@ -41,10 +41,10 @@ This section highlights the major discoveries from the analysis.
 Actual findings and insights will be presented using the results obtained from the dataset.
 
   8. Dashboard: 
-An interactive Power BI dashboard was developed to present the analysis through charts, visualisations and key performance indicators.
+An interactive Power BI dashboard was developed to present the analysis through charts, visualisations and key performance indicators( KPIs).
 
   9. Recommendations: 
-- Promote awareness of breast cancer screening.
+- Promote awareness of BREAST CANCER screening.
 - Encourage early detection.
 - Support evidence-based healthcare research.
 - Use data insights to improve understanding of breast cancer patterns.
